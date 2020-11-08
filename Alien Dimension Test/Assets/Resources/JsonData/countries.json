@@ -1,0 +1,119 @@
+{
+    "items": [
+        {
+            "name": "Algeria"
+        },
+        {
+            "name": "Angola"
+        },
+        {
+            "name": "Argentina"
+        },
+        {
+            "name": "Australia"
+        },
+        {
+            "name": "Belgium"
+        },
+        {
+            "name": "Brazil"
+        },
+        {
+            "name": "Cameroon"
+        },
+        {
+            "name": "Canada"
+        },
+        {
+            "name": "China"
+        },
+        {
+            "name": "Colombia"
+        },
+        {
+            "name": "Croatia"
+        },
+        {
+            "name": "Denmark"
+        },
+        {
+            "name": "Egypt",
+            "code": "EG"
+        },
+        {
+            "name": "France"
+        },
+        {
+            "name": "Germany"
+        },
+        {
+            "name": "India"
+        },
+        {
+            "name": "Iran"
+        },
+        {
+            "name": "Iraq"
+        },
+        {
+            "name": "Italy"
+        },
+        {
+            "name": "Japan"
+        },
+        {
+            "name": "Lebanon"
+        },
+        {
+            "name": "Mexico"
+        },
+        {
+            "name": "Morocco"
+        },
+        {
+            "name": "Portugal"
+        },
+        {
+            "name": "Qatar"
+        },
+        {
+            "name": "Russia"
+        },
+        {
+            "name": "Senegal"
+        },
+        {
+            "name": "South Africa"
+        },
+        {
+            "name": "Spain"
+        },
+        {
+            "name": "Sudan"
+        },
+        {
+            "name": "Sweden"
+        },
+        {
+            "name": "Switzerland"
+        },
+        {
+            "name": "Tunisia"
+        },
+        {
+            "name": "Turkey"
+        },
+        {
+            "name": "Uganda"
+        },
+        {
+            "name": "Ukraine"
+        },
+        {
+            "name": "United Kingdom"
+        },
+        {
+            "name": "Uruguay"
+        }
+    ]
+}
